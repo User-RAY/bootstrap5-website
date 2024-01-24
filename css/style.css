@@ -1,0 +1,36 @@
+body::before{
+	display: block;
+	content: '';
+	height: 70px;
+}
+
+
+@media(min-width: 768px){
+	
+	.news-input{
+		width: 50%;
+	}
+
+}
+
+
+#questions::before{
+	display: block;
+	content: '';
+	height: 20px;
+}
+
+
+#instructors::before{
+	display: block;
+	content: '';
+	height: 20px;
+}
+
+
+
+#learn::before{
+	display: block;
+	content: '';
+	height: 20px;
+}
